@@ -123,7 +123,7 @@ namespace detail
 	{
 		for (auto itr = cont.begin(); itr!= cont.end();)
 		{
-			if (pred(itr))
+			if (pred(*itr))
 			{
 				cont.erase(itr++);	// Move onto the next iterator before removal of old value
 									// as the removal will invalidate the iterator
