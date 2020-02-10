@@ -3,6 +3,10 @@
 // https://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Standard-Template-Library-STL-/C9-Lectures-Stephan-T-Lavavej-Standard-Template-Library-STL-3-of-n?ocid=player
 //=========================================================================================================================!
 
+#pragma once
+
+//=========================================================================================================================!
+
 // Vector like containers
 #include <vector>
 #include <deque>
