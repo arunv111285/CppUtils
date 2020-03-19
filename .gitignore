@@ -5,3 +5,5 @@
 /.vs
 /ut.ContainerRemove/Debug
 /utils/Debug
+/ut.Timer/x64/Debug
+/x64/Debug
